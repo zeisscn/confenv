@@ -6,7 +6,7 @@ Confenv is an environment variable setup tool for windows User. It's similar to 
   ```
   python>=3.4
 
-  pip install configparser, pyinstaller
+  pip install configparser pyinstaller
   ```
 
 - Package & Install
