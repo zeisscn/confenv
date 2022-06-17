@@ -71,5 +71,5 @@ if not command_str:
     print("Usage: confenv [env] -- [command] [args]")
     sys.exit("Exit NotFound.")
 
-execute_command(' '.join(unknownargs))
+execute_command(command_str)
 sys.exit("Exit Done.")
